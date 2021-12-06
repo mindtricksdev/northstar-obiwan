@@ -1,0 +1,223 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+<root>
+	<Invoices>
+		<Invoice>
+			<InvoiceProperties>
+				<number>02116</number>
+				<date>2016-09-10</date>
+			</InvoiceProperties>
+			<CustomerInformation>
+				<name>Earl Library Co.</name>
+				<address>1021 South Main Street,Seattle, Washington 92315</address>
+				<email>sales@earlbook.com</email>
+				<telephone>(206)321-2345 </telephone>
+			</CustomerInformation>
+			<Products>		
+				<Product> 
+					<id>1001</id>
+					<name>Rendezvous with Rama by Arthur C. Clarke</name> 
+					<price>15</price> 
+					<quantity>3</quantity>
+					<description>An all-time science fiction classic, Rendezvous with Rama is also one of Clarke's best novels--it won the Campbell, Hugo, Jupiter, and Nebula Awards.</description> 
+					<total>45</total>
+				</Product>
+				<Product> 
+					<id>2921</id> 
+					<name>Dune Chronicles by Frank Herbert</name>
+					<price>60</price>
+					<quantity>5</quantity> 
+					<description>Dune is one of the most famous science fiction novels ever written, and deservedly so. The setting is elaborate and ornate, the plot labyrinthine, the adventures exciting. Five sequels follow.</description> 
+					<total>300</total>
+				</Product>
+				<Product> 
+					<id>3237</id>
+					<name>Schindler's List by Thomas Keneally</name>
+					<price>21</price>
+					<quantity>6</quantity>
+					<description>A mesmerizing novel based on the true story of Oskar Schindler, a German industralist who saved and succored more than 1000 Jews from the Nazis at enormous financial and emotional expense.</description>
+					<total>126</total>
+				</Product>
+				<Product> 
+					<id>4673</id>
+					<name>Middle Passage by Charles Johnson</name>
+					<price>17</price>
+					<quantity>4</quantity>
+					<description>In this savage parable of the African American experience, Rutherford Calhoun, a newly freed slave eking out a living in New Orleans in 1830, hops aboard a square rigger to evade the prim Boston schoolteacher who wants to marry him. But the Republic turns out to be a slave clipper bound for Africa.</description>
+					<total>68</total>
+				</Product>
+				<Product>
+					<id>5557</id>
+					<name>Underworld:A Novel by Don DeLillo</name>
+					<price>14</price>
+					<quantity>3</quantity>
+					<description>Underworld opens with a breathlessly graceful prologue set during the final game of the Giants-Dodgers pennant race in 1951. Written in what DeLillo calls super-omniscience the sentences sweep from young Cotter Martin as he jumps the gate to the press box, soars over the radio waves, runs out to the diamond, slides in on a fast ball, pops into the stands where J. It's an absolutely thrilling literary moment.</description>
+					<total>42</total>
+				</Product>
+				<Product>
+					<id>6245</id>
+					<name>Stones from the River by Ursula Hegi</name>
+					<price>16</price>
+					<quantity>4</quantity>
+					<description>Ursula Hegi's Stones from the River clamors for comparisons to Gunter Grass's The Tin Drum; her protagonist Trudi Montag--like the unforgettable Oskar Mazerath--is a dwarf living in Germany during the two World Wars.</description>
+					<total>64</total>
+				</Product>
+				<Product> 
+					<id>1227</id>
+					<name>Empire of the Sun by J. G. Ballard</name>
+					<price>12</price>
+					<quantity>3</quantity>
+					<description>Ballard's enduring novel of war and deprivation, internment camps and death marches, and starvation and survival is an honest coming-of-age tale set in a world thrown utterly out of joint.</description>
+					<total>36</total>
+				</Product>
+				<Product>
+					<id>6387</id>
+					<name>The Mare</name>
+					<price>6.7</price>
+					<quantity>3</quantity>
+					<description>This is a heartbreakingly honest and profoundly moving portrait of the nearly unbridgeable gaps between people, and the way we long for fairytale endings despite knowing that they don't exist.</description>
+					<total>18</total>
+				</Product>
+				<Product>
+					<id>1325</id>
+					<name>Heroes of the Frontier</name>
+					<price>9.99</price>
+					<quantity>5</quantity>
+					<description>Heroes of the Frontier is a captivating and hilarious novel about family, loss and recovery, and a powerful examination of contemporary American life.</description>
+					<total>45</total>
+				</Product>
+				<Product>
+					<id>5460</id>
+					<name>Nutshell</name>
+					<price>9.7</price>
+					<quantity>3</quantity>
+					<description>Told from a perspective unlike any other, Nutshell is a classic tale of murder and deceit from one of the world’s master storytellers.</description>
+					<total>27</total>
+				</Product>
+			</Products>
+			<Comments>
+				<comments>If you have questions regarding this order, please contact me anytime between 10AM and 5PM.</comments>
+			</Comments>
+		</Invoice>
+		<Invoice>	
+			<InvoiceProperties>
+				<number>05143</number>
+				<date>2016-08-22</date>
+			</InvoiceProperties>
+			<CustomerInformation>
+				<name>The Open Book Co.</name>
+				<address>59 Princeton Road Martinsville, VA 24112</address>
+				<email>contact@theopenbook.com</email>
+				<telephone>(804)541-1600</telephone>
+			</CustomerInformation>
+			<Products>			
+				<Product>
+					<id>2556</id>
+					<name>Delirium</name>
+					<price>14.5</price>
+					<quantity>15</quantity>
+					<description>Delirium is a dystopian young adult novel written by Lauren Oliver, published on January 1, 2011 by HarperCollins (HarperTeen), about a young girl, Lena Haloway, who falls in love in a society where love is seen as a disease. The novel is the first part of a trilogy, followed by Pandemonium.</description>
+					<total>210</total>
+				</Product>
+				<Product>
+					<id>2557</id>
+					<name>Pandemonium</name>
+					<price>15</price>
+					<quantity>15</quantity>
+					<description>Pandemonium is a 2012 dystopian young adult novel written by Lauren Oliver and the second novel in her Delirium trilogy.[1] The book was first published on February 28, 2012 through HarperTeen and follows the series' protagonist as she explores the Wilds outside the walled community she was raised in.[2] The book was preceded by a novella entitled Hana and was succeeded by Requiem, the final book in the series.</description>
+					<total>225</total>
+				</Product>
+				<Product>
+					<id>1204</id>
+					<name>The Great Gatsby</name>
+					<price>20.7</price>
+					<quantity>4</quantity>
+					<description>Considered one of the all-time great American works of fiction, Fitzgerald’s glorious yet ultimately tragic social satire on the Jazz Age encapsulates the exuberance, energy and decadence of an era.</description>
+					<total>80</total>
+				</Product>
+				<Product>
+					<id>1319</id>
+					<name>Jude the Obscure</name>
+					<price>10.62</price>
+					<quantity>5</quantity>
+					<description>Jude Fawley is a rural stone mason with intellectual aspirations. Frustrated by poverty and the indifference of the academic institutions at the University of Christminster, his only chance of fulfilment seems to lie in his relationship with his unconventional cousin, Sue Bridehead. But life as social outcasts proves undermining, and when tragedy occurs, Sue has no resilience and Jude is left in despair.</description>
+					<total>50</total>
+				</Product>
+				<Product>
+					<id>6098</id>
+					<name>The Endorphin Effect: A breakthrough strategy for holistic health and spiritual wellbeing</name>
+					<price>20.1</price>
+					<quantity>12</quantity>
+					<description>In THE ENDORPHIN EFFECT, Dr William Bloom, Britain's leading holistic teacher, presents a major breakthrough in the field of healthcare and personal development. He reveals a revolutionary method that enables you to produce endorphins for vitality and a positive mood whenever you want, even when exhausted or in a crisis.</description>
+					<total>240</total>
+				</Product>
+				<Product>
+					<id>6335</id>
+					<name>Who Moved My Cheese: An Amazing Way to Deal with Change in Your Work and in Your Life</name>
+					<price>8.5</price>
+					<quantity>3</quantity>
+					<description>Who Moved My Cheese? is a simple parable that reveals profound truths. It is the amusing and enlightening story of four characters who live in a maze and look for cheese to nourish them and make them happy.</description>
+					<total>24</total>
+				</Product>
+				<Product>
+					<id>4587</id>
+					<name>Tess of the D'Urbervilles</name>
+					<price>12.3</price>
+					<quantity>8</quantity>
+					<description>This critical edition of Thomas Hardy's 1891 British Victorian novel reprints the authoritative second impression of the 1920 Wessex edition together with five critical essays - newly commissioned or revised - that read Tess of the d'Urbervilles from five contemporary critical perspectives.</description>
+					<total>96</total>
+				</Product>
+				<Product>
+					<id>1203</id>
+					<name>Goodnight Mister Tom</name>
+					<price>10</price>
+					<quantity>2</quantity>
+					<description>When the Second World War breaks out, young Willie Beech is evacuated to the countryside. A sad, deprived child, he slowly begins to flourish under the care of kind old Tom Oakley. But then his cruel mother summons him back to war-torn London... Will he ever see Mister Tom again?</description>
+					<total>20</total>
+				</Product>
+				<Product>
+					<id>2690</id>
+					<name>The Silmarillion</name>
+					<price>22.9</price>
+					<quantity>10</quantity>
+					<description>The Silmarillion is an account of the Elder Days, of the First Age of Tolkien’s world. It is the ancient drama to which the characters in The Lord of the Rings look back, and in whose events some of them such as Elrond and Galadriel took part.</description>
+					<total>220</total>
+				</Product>
+				<Product>
+					<id>8652</id>
+					<name>Made In America: An Informal History of American English</name>
+					<price>6.9</price>
+					<quantity>7</quantity>
+					<description>Bill Bryson turns away from the highways and byways of middle America, so hilariously depicted in his bestselling The Lost Continent, for a fast, exhilarating ride along the Route 66 of American language and popular culture.</description>
+					<total>42</total>
+				</Product>
+				<Product>
+					<id>4697</id>
+					<name>Mother Tongue: The Story of the English Language</name>
+					<price>7.2</price>
+					<quantity>5</quantity>
+					<description>Only Bill Bryson could make a book about the English language so entertaining. With his boundless enthusiasm and restless eye for the absurd, this is his astonishing tour of English.</description>
+					<total>35</total>
+				</Product>
+				<Product>
+					<id>1308</id>
+					<name>Magical Jungle: An Inky Expedition &amp; Colouring Book </name>
+					<price>26.9</price>
+					<quantity>13</quantity>
+					<description>From the international bestselling creator of Lost Ocean comes a beautiful new colouring book that takes you on a wondrous expedition through the jungle.</description>
+					<total>338</total>
+				</Product>
+				<Product>
+					<id>8966</id>
+					<name>Release Your Anger: Midnight Edition</name>
+					<price>15.6</price>
+					<quantity>5</quantity>
+					<description>Over thirty-five creative and intricate designs that feature classic and wonderfully original insults, exclamations and swear words to help you relax and let go of the stressful situations in your life.</description>
+					<total>75</total>
+				</Product>
+			</Products>
+			<Comments> 
+				<comments>Please deliver the books by the end of the month, we need to honor our clients' requests.</comments>
+			</Comments>
+		</Invoice>
+	</Invoices>
+</root>
