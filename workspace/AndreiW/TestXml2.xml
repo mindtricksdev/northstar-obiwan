@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns:books xmlns:ns="http://www.tempuri.org/XML">
-	<ns:book id="1" title="Lord Of the Rings.">
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>A
+<ns:books xmlns:ns="http://www.tempuri.org/XML">B
+	<ns:book id="1" title="Lord Of the Rings.">C
 		<ns:author name="Sosoaca"/>
 	</ns:book>
 	<ns:book id="2" title="Principia Mathematica">
