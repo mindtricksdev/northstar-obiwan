@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>A
 <ns:books xmlns:ns="http://www.tempuri.org/XML">B
 	<ns:book id="1" title="Lord Of the Rings.">C
-		<ns:author name="Sosoaca"/>
+		<ns:author name="Sosoaca"/>44
 	</ns:book>
 	<ns:book id="2" title="Principia Mathematica">
 		<ns:author name="Bertrand Russell"/>
